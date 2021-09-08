@@ -2,6 +2,7 @@
 ProCutter is intended for optimizing rectangular nesting in Blender 2.93
 
 **Astra Nesting**. Astra R-Nesting is intended for optimizing rectangular nesting. The software can be used for cutting parts of plywood, lumber, glass, metal and other sheet materials.
+
 *English version: http://www.astranest.com/
 *Russian version: http://astrapro.ru/default.asp?page=astra-raskroj
 

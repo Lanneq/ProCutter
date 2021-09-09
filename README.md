@@ -6,7 +6,7 @@ markdown: kramdown
 ### ***ProCutter is intended for optimizing rectangular nesting in `Blender 2.93` and upper***
 ___
 
-## GET IT ON [blendermarket.com](https://blendermarket.com/products/procutter)
+## GET IT ON [blendermarket.com](https://blendermarket.com/products/procutter) OR ON [CGTRADER](https://www.cgtrader.com/3d-models/furniture/cabinet/procutter)
 ___
 
 This add-on will help you design cabinet furniture (and not only) in a blender and in 1 click receive a full cut of all parts and take into account the position of textures on the parts. This is an assistant that saves mountains of time for designers and manufacturers who choose blender as the main editor of the 3D editor when designing cabinet products.

@@ -9,7 +9,7 @@ ___
 
 [Astra Nesting]([1]) ([Rus]([2])) - software can be used for cutting parts of plywood, lumber, glass, metal and other sheet materials.
 
-[OptiCutter][3] - sheet and length cutting optimization online.
+[OptiCutter]([3]) - sheet and length cutting optimization online.
 ___
 
 ## [YouTube](https://www.youtube.com/watch?v=0b-oexc1S9I)  Work Demonstration
@@ -38,8 +38,8 @@ When choosing a cutting program, leave your preference for astra. Since it has a
 ![](/doc/img/pic4.jpg)
 
 
- ### For all questions, you can write to me in [telegrams][5]. 
- ### And all >suggestions and comments can be sent to the [github][4].
+ ### For all questions, you can write to me in [telegrams]([5]). 
+ ### And all >suggestions and comments can be sent to the [github]([4]).
 
 [1]:(http://www.astranest.com)
 [2]:(http://astrapro.ru/default.asp?page=astra-raskroj)

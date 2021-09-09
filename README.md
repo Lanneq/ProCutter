@@ -7,7 +7,7 @@ ___
 This add-on will help you design cabinet furniture (and not only) in a blender and in 1 click receive a full cut of all parts and take into account the position of textures on the parts. This is an assistant that saves mountains of time for designers and manufacturers who choose blender as the main editor of the 3D editor when designing cabinet products.
 ___
 
-[Astra Nesting][1] ([Rus][2]) - software can be used for cutting parts of plywood, lumber, glass, metal and other sheet materials.
+[Astra Nesting]([1]) ([Rus]([2])) - software can be used for cutting parts of plywood, lumber, glass, metal and other sheet materials.
 
 [OptiCutter][3] - sheet and length cutting optimization online.
 ___

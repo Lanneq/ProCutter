@@ -41,13 +41,13 @@ When choosing a cutting program, leave your preference for astra. Since it has a
  ### For all questions, you can write to me in [telegrams]([5]). 
  ### And all >suggestions and comments can be sent to the [github]([4]).
 
-[1]:(http://www.astranest.com)
+[1]:(http://www.astranest.com){:target="_blank" rel="noopener"}.
 [2]:(http://astrapro.ru/default.asp?page=astra-raskroj)
 [3]:(https://www.opticutter.com/)
 [4]:(https://github.com/Lanneq/ProCutter/issues)
 [5]:(https://t.me/lanneq)
 
-
+markdown: kramdown
 
 
 

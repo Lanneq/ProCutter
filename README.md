@@ -9,9 +9,9 @@ ___
 This add-on will help you design cabinet furniture (and not only) in a blender and in 1 click receive a full cut of all parts and take into account the position of textures on the parts. This is an assistant that saves mountains of time for designers and manufacturers who choose blender as the main editor of the 3D editor when designing cabinet products.
 ___
 
-[Astra Nesting]([1]) ([Rus]([2])) - software can be used for cutting parts of plywood, lumber, glass, metal and other sheet materials.
+[Astra Nesting](http://www.astranest.com) ([Rus](http://astrapro.ru/default.asp?page=astra-raskroj)) - software can be used for cutting parts of plywood, lumber, glass, metal and other sheet materials.
 
-[OptiCutter]([3]) - sheet and length cutting optimization online.
+[OptiCutter](https://www.opticutter.com/) - sheet and length cutting optimization online.
 ___
 
 ## [YouTube](https://www.youtube.com/watch?v=0b-oexc1S9I)  Work Demonstration
@@ -40,14 +40,10 @@ When choosing a cutting program, leave your preference for astra. Since it has a
 ![](/doc/img/pic4.jpg)
 
 
- ### For all questions, you can write to me in [telegrams]([5]). 
- ### And all suggestions and comments can be sent to the [github]([4]).
+ ### For all questions, you can write to me in [telegrams](https://t.me/lanneq) 
+ ### And all suggestions and comments can be sent to the [github](https://github.com/Lanneq/ProCutter/issues)
 
-[1]:(http://www.astranest.com){:target="_blank" rel="noopener"}.
-[2]:(http://astrapro.ru/default.asp?page=astra-raskroj){:target="_blank" rel="noopener"}.
-[3]:(https://www.opticutter.com/){:target="_blank" rel="noopener"}.
-[4]:(https://github.com/Lanneq/ProCutter/issues){:target="_blank" rel="noopener"}.
-[5]:(https://t.me/lanneq){:target="_blank" rel="noopener"}.
+
 
 
 

@@ -40,5 +40,13 @@ When choosing a cutting program, leave your preference for astra. Since it has a
 ![](/doc/img/pic4.jpg)
 
 
- ### For all questions, you can write to me in [telegrams](https://t.me/lanneq) 
- ### And all suggestions and comments can be sent to the [github](https://github.com/Lanneq/ProCutter/issues)
+ 
+
+ ![](/doc/img/header.jpg)
+> ### For all questions, you can write to me in [telegram](https://t.me/lanneq) 
+> ### And all suggestions and comments can be sent to the [github](https://github.com/Lanneq/ProCutter/issues)
+
+
+
+
+

@@ -5,6 +5,7 @@ markdown: kramdown
 
 ### ***ProCutter is intended for optimizing rectangular nesting in `Blender 2.93` and upper***
 ___
+### [YouTube](https://www.youtube.com/watch?v=lL1gY0Sk4HI) [Addon Setting up](https://youtu.be/5RAHuo84QoY)
 
 ## GET IT ON [blendermarket.com](https://blendermarket.com/products/procutter)
 ___
